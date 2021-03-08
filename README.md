@@ -16,3 +16,8 @@ Um número impressionante de projetos de software depende do Git para controle d
 Os desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos de desenvolvimento de software disponíveis e funcionam bem em uma ampla variedade de sistemas operacionais e IDEs (Ambientes de Desenvolvimento Integrado).
 
 [Ler mais](https://www.atlassian.com/br/git/tutorials/what-is-git)
+
+
+## Calculadora FPOO
+
+O projeto hospedado no GitHub Pages é um compilado de formas de calculos organizados em um site simples em formato HTML, com JavaScript criado para as fórmulas e CSS para estilização e responsividade do síte.
