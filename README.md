@@ -21,3 +21,5 @@ Os desenvolvedores que trabalharam com o Git estão bem representados no pool de
 ## Calculadora FPOO
 
 O projeto hospedado no GitHub Pages é um compilado de formas de calculos organizados em um site simples em formato HTML, com JavaScript criado para as fórmulas e CSS para estilização e responsividade do síte.
+
+Disponível em: https://luccazx12.github.io/git-github/calculadora_fpoo/index.html
