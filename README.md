@@ -5,7 +5,7 @@ DASDSAD
 DASDASDAS
 =======
 # Git - Github
-Primeiro Repositorio de Git Github
+Primeiro Repositório de Git Github
 
 ## **Ambientes de Desenvolvimento e Referências**
 
