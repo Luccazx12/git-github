@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-DASDSAD
-
-
-DASDASDAS
-=======
 # Git - Github
 Primeiro Repositório de Git Github
 
