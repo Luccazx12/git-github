@@ -16,4 +16,3 @@ Um número impressionante de projetos de software depende do Git para controle d
 Os desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos de desenvolvimento de software disponíveis e funcionam bem em uma ampla variedade de sistemas operacionais e IDEs (Ambientes de Desenvolvimento Integrado).
 
 [Ler mais](https://www.atlassian.com/br/git/tutorials/what-is-git)
->>>>>>> 01ce269d53dbfbce8012650fccbbe041d992c9bb
