@@ -3,7 +3,7 @@ Primeiro Repositório de Git Github
 
 ## **Ambientes de Desenvolvimento e Referências**
 
-* IDE:    **VS2019** // **VSCODE1.54.1**
+* IDE:    **VSCODE1.54.1**
 * GitHub Desktop: **2.6.5**
 * Git: **2.30.1-64-bit**
 
