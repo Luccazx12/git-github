@@ -1,25 +1,10 @@
-# Git - Github
-Primeiro Repositório de Git Github
+# JsCalculator
+O projeto hospedado no GitHub Pages é um compilado de formas de calculos organizados em um site simples em formato HTML, com JavaScript criado para as fórmulas e CSS para estilização e responsividade do síte.
+
+Disponível em: https://luccazx12.github.io/git-github/calculadora_fpoo/index.html
 
 ## **Ambientes de Desenvolvimento e Referências**
 
 * IDE:    **VSCODE1.54.1**
 * GitHub Desktop: **2.6.5**
 * Git: **2.30.1-64-bit**
-
-## O que é o GIT
-
-O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. 
-
-Um número impressionante de projetos de software depende do Git para controle de versão, incluindo projetos comerciais e de código-fonte aberto. 
-
-Os desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos de desenvolvimento de software disponíveis e funcionam bem em uma ampla variedade de sistemas operacionais e IDEs (Ambientes de Desenvolvimento Integrado).
-
-[Ler mais](https://www.atlassian.com/br/git/tutorials/what-is-git)
-
-
-## Calculadora FPOO
-
-O projeto hospedado no GitHub Pages é um compilado de formas de calculos organizados em um site simples em formato HTML, com JavaScript criado para as fórmulas e CSS para estilização e responsividade do síte.
-
-Disponível em: https://luccazx12.github.io/git-github/calculadora_fpoo/index.html
