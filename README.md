@@ -11,6 +11,6 @@ Disponível em: https://luccazx12.github.io/git-github/calculadora_fpoo/index.ht
 
 ## Extensões Utilizadas no VSCODE
 
-* EsLint
+* ESLint
 * Live Server
 * Debugger for Microsoft Edge
